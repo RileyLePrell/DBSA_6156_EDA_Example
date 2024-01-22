@@ -1,0 +1,5 @@
+streamlit
+seaborns
+altair
+numpy
+pandas
